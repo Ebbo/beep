@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/faiface/beep"
-	"github.com/faiface/beep/mp3"
-	"github.com/faiface/beep/speaker"
+	"github.com/ebbo/beep"
+	"github.com/ebbo/beep/mp3"
+	"github.com/ebbo/beep/speaker"
 )
 
 type Queue struct {
