@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/ebbo/beep"
-	"github.com/hajimehoshi/oto"
+	"github.com/ebbo/oto"
 	"github.com/pkg/errors"
 )
 
